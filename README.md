@@ -4,9 +4,6 @@ Firmware for a temperature-controlled 3D printer enclosure, built around an **ES
 
 > 🎓 Embedded systems course project (SMiW) at the Silesian University of Technology — hardware and firmware designed, built and programmed individually. Full schematic and PCB layout were designed as part of the project.
 
-<!-- TODO: add a photo of the enclosure here -->
-<!-- ![Enclosure photo](docs/enclosure.jpg) -->
-
 ## Features
 
 - **Automatic temperature control** — bang-bang regulation with hysteresis (±0.3 °C) around a user-set target (10–80 °C), based on a DS18B20 sensor inside the chamber
